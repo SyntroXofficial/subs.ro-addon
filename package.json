@@ -6,7 +6,7 @@
     "start": "vercel dev"
   },
   "dependencies": {
-    "stremio-addon-sdk": "^0.14.0",
+    "stremio-addon-sdk": "^0.10.2",
     "cheerio": "^1.0.0-rc.12",
     "axios": "^1.6.0"
   }
